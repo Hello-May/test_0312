@@ -13,6 +13,7 @@
     "@google-cloud/firestore": "^3.6.0",
     "@types/request-promise": "^4.1.45",
     "angularfire2": "^5.4.2",
+    "dialogflow-fulfillment": "^0.6.1",
     "firebase": "^7.10.0",
     "firebase-tools": "^7.14.0",
     "request-promise": "^4.2.5"
